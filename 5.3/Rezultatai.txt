@@ -1,0 +1,36 @@
+
+Antradienių bendros išlaidos $35.40.
+Šeštadienių bendros išlaidos $50.40.
+
+Daugiausia išleista 1 sav. 4 dieną. Pinigus išleido žmona: $100.20.
+Mažiausiai išleista 2 sav.Isleista: 131.7
+Pradiniai duomenys
+
+Savaiciu kiekis 3
+Nariu skaicius 7
+
+|1-dienis     |2-dienis      |3-dienis      |4-dienis      |5-dienis      |6-dienis      |7-dienis      |
+|-------------------------------------------------------------------------------------------------------|
+|vyras  10.40 |vyras  15.20  |žmona  50.50  |žmona 100.20  |-----   0.00  |žmona  10.20  |-----   0.00  |
+|žmona  15.30 |-----   0.00  |-----   0.00  |žmona  20.50  |vyras  55.50  |vyras  10.10  |žmona  30.30  |
+|vyras  10.10 |vyras  20.20  |vyras  30.30  |vyras  50.50  |vyras  20.10  |vyras  30.10  |vyras  30.10  |
+
+Rezultatai
+
+Viso isleista: $509.60.
+
+Viso dienu be islaidu: 4.
+
+Vyro islaidos: $282.60.
+
+Zmonos islaidos: $227.00.
+Savaites nr. 1 islaidos $186.50.
+Savaites nr. 2 islaidos $131.70.
+Savaites nr. 3 islaidos $191.40.
+
+|-------------------------------------------------------------------------------------------------------|
+|1-dienis     |2-dienis      |3-dienis      |4-dienis      |5-dienis      |6-dienis      |7-dienis      |
+|-------------------------------------------------------------------------------------------------------|
+|$35.80       |$35.40        |$80.80        |$171.20       |$75.60        |$50.40        |$60.40        |
+|-------------------------------------------------------------------------------------------------------|
+
