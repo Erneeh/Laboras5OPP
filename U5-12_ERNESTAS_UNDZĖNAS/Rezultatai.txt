@@ -1,0 +1,80 @@
+Starting data
+
+Number of lecturers 7
+Number of days 10
+
+Lecturers
+
+----------------------------------------------------------------------
+ Nr. Lastname       Name        Faculty         Department       Hours
+----------------------------------------------------------------------
+ 1. Jonaitis        Jonas       Informatics     Systems             0                      
+ 2. Aleksaitė       Alina       Informatics     Techonologies       0                      
+ 3. Petraitis       Petras      Informatics     Systems             0                      
+ 4. Antanaitis      Antanas     Informatics     Techonologies       0                      
+ 5. Juozaitis       Juozas      Mathematics     Statistics          0                      
+ 6. Rimaitis        Rimas       Mathematics     Statistics          0                      
+ 7. Rasaitė         Rasa        Mathematics     Moduling            0                      
+----------------------------------------------------------------------
+
+Working hours in 10 days.
+--------------------------------------------------------
+| Lecturer  1.|  8   4   6   7   5   8   4   6   7   5 |
+| Lecturer  2.|  6   2   4   0   8   6   2   4   0   8 |
+| Lecturer  3.|  8   4   6   7   5   8   4   6   7   5 |
+| Lecturer  4.|  8   4   6   7   5   8   4   6   7   5 |
+| Lecturer  5.|  1   0   1   0   0   0   0   0   0   0 |
+| Lecturer  6.|  1   0   1   0   0   0   0   0   0   0 |
+| Lecturer  7.|  8   4   6   7   5   8   4   6   7   5 |
+--------------------------------------------------------
+Updated lecturer working hours
+
+----------------------------------------------------------------------
+ Nr. Lastname       Name        Faculty         Department       Hours
+----------------------------------------------------------------------
+ 1. Jonaitis        Jonas       Informatics     Systems             60                     
+ 2. Aleksaitė       Alina       Informatics     Techonologies       40                     
+ 3. Petraitis       Petras      Informatics     Systems             60                     
+ 4. Antanaitis      Antanas     Informatics     Techonologies       60                     
+ 5. Juozaitis       Juozas      Mathematics     Statistics          2                      
+ 6. Rimaitis        Rimas       Mathematics     Statistics          2                      
+ 7. Rasaitė         Rasa        Mathematics     Moduling            60                     
+----------------------------------------------------------------------
+
+Days when all lecturers worked:
+--------------------------------
+Day 1 
+Day 3 
+
+
+Sorted by faculty name
+
+----------------------------------------------------------------------
+ Nr. Lastname       Name        Faculty         Department       Hours
+----------------------------------------------------------------------
+ 1. Jonaitis        Jonas       Informatics     Systems             60                     
+ 2. Aleksaitė       Alina       Informatics     Techonologies       40                     
+ 3. Petraitis       Petras      Informatics     Systems             60                     
+ 4. Antanaitis      Antanas     Informatics     Techonologies       60                     
+ 5. Juozaitis       Juozas      Mathematics     Statistics          2                      
+ 6. Rimaitis        Rimas       Mathematics     Statistics          2                      
+ 7. Rasaitė         Rasa        Mathematics     Moduling            60                     
+----------------------------------------------------------------------
+
+Total working hours by faculty:
+--------------------------------
+ Informatics           220 hours
+ Mathematics            64 hours
+
+
+
+Lecturers with less than 50 average monthly hours
+
+----------------------------------------------------------------------
+ Nr. Lastname       Name        Faculty         Department       Hours
+----------------------------------------------------------------------
+ 1. Aleksaitė       Alina       Informatics     Techonologies       40                     
+ 2. Juozaitis       Juozas      Mathematics     Statistics          2                      
+ 3. Rimaitis        Rimas       Mathematics     Statistics          2                      
+----------------------------------------------------------------------
+

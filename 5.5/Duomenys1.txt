@@ -1,0 +1,8 @@
+﻿7
+Jonaitis;Jonas; 6; 7,5;
+Aleksaitė;Alina; 6; 9,5;
+Petraitis;Petras; 5; 8,5;
+Antanaitis;Antanas; 6; 5,5;
+Juozaitis;Juozas; 5; 8,5;
+Rimaitis;Rimas; 6; 7,5;
+Rasaitė;Rasa; 5; 6,0;

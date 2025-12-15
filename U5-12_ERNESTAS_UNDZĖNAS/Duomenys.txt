@@ -1,0 +1,8 @@
+﻿7;10;50;
+Jonaitis;Jonas; Informatics; Systems;
+Aleksaitė;Alina; Informatics; Techonologies;
+Petraitis;Petras; Informatics; Systems;
+Antanaitis;Antanas; Informatics; Techonologies;
+Juozaitis;Juozas; Mathematics; Statistics;
+Rimaitis;Rimas; Mathematics; Statistics;
+Rasaitė;Rasa; Mathematics; Moduling;

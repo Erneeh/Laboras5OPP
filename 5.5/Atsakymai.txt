@@ -1,0 +1,70 @@
+        Pradiniai duomenys
+
+Mokiniu kiekis 7
+Dienu kiekis 5
+
+      Mokyklos mokiniai (laikai = 0)
+
+----------------------------------------------
+ Nr. Pavardė          Vardas     Klasė     Laikas 
+----------------------------------------------
+ 1.  Jonaitis        Jonas       6   0.00   
+ 2.  Aleksaitė       Alina       6   0.00   
+ 3.  Petraitis       Petras      5   0.00   
+ 4.  Antanaitis      Antanas     6   0.00   
+ 5.  Juozaitis       Juozas      5   0.00   
+ 6.  Rimaitis        Rimas       6   0.00   
+ 7.  Rasaitė         Rasa        5   0.00   
+----------------------------------------------
+
+Mokiniu laikai, praleiste internete per 5 dienas.
+
+   1. 120 100  90  60  50 
+   2. 100 200 150 200  10 
+   3.  80  90  80  90  80 
+   4. 120  80  60 140  70 
+   5.  60  60  60  60  60 
+   6.   0   0   0   0   0 
+   7.   0  50  60 120  40 
+
+ Rezultatai
+
+ Mokyklos mokiniai (papildyta, laikai != 0)
+
+----------------------------------------------
+ Nr. Pavardė          Vardas     Klasė     Laikas 
+----------------------------------------------
+ 1.  Jonaitis        Jonas       6 420.00   
+ 2.  Aleksaitė       Alina       6 660.00   
+ 3.  Petraitis       Petras      5 420.00   
+ 4.  Antanaitis      Antanas     6 470.00   
+ 5.  Juozaitis       Juozas      5 300.00   
+ 6.  Rimaitis        Rimas       6   0.00   
+ 7.  Rasaitė         Rasa        5 270.00   
+----------------------------------------------
+
+ Mokyklos mokiniai (surikiuoti)
+
+----------------------------------------------
+ Nr. Pavardė          Vardas     Klasė     Laikas 
+----------------------------------------------
+ 1.  Rasaitė         Rasa        5 270.00   
+ 2.  Juozaitis       Juozas      5 300.00   
+ 3.  Petraitis       Petras      5 420.00   
+ 4.  Rimaitis        Rimas       6   0.00   
+ 5.  Jonaitis        Jonas       6 420.00   
+ 6.  Antanaitis      Antanas     6 470.00   
+ 7.  Aleksaitė       Alina       6 660.00   
+----------------------------------------------
+
+Mokinių laikai, praleisti internete (po rikiavimo) per 5 dienas.
+
+   1.   0  50  60 120  40 
+   2.  60  60  60  60  60 
+   3.  80  90  80  90  80 
+   4.   0   0   0   0   0 
+   5. 120 100  90  60  50 
+   6. 120  80  60 140  70 
+   7. 100 200 150 200  10 
+
+5 klasės mokiniai internete vidutiniškai praleido 330.00 minučių.
